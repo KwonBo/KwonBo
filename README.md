@@ -7,7 +7,7 @@
 
   <h3> Languages </h3>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heavensbee&langs_count=8)](https://github.com/Heavensbee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonBo&langs_count=8)](https://github.com/KwonBo/github-readme-stats)
 
 ![.](https://github-readme-stats.vercel.app/api?username=KwonBo&show_icons=true&theme=graywhite)
 </div>
