@@ -11,9 +11,13 @@
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=KwonBo)](https://solved.ac/0heavensbee)
   <br>
+  <br>
+  <br>
   <h3> :satisfied: Languages </h3>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonBo&langs_count=8)](https://github.com/KwonBo/github-readme-stats)
+  <br>
+  <br>
   <br>
   <h3> :star: stats </h3>
   
