@@ -5,8 +5,6 @@
   <br>
   <br>
   <br>
-
-  <h3> :computer: Problem Solving </h3>
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonBo&langs_count=8)](https://github.com/KwonBo/github-readme-stats)
